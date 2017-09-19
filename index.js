@@ -1,3 +1,4 @@
+// Juan Sebastian Gómez: Es recomendable no subir los node_modules al repositorio.
 const express = require('express');
 const path = require('path');
 
